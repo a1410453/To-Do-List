@@ -1,5 +1,5 @@
-# HabitTracker
-This Habit Tracker was made with tutorial from Kavsoft channel from youtube.
+# ToDoList
+This ToDoList was made with tutorial from Kavsoft channel from youtube.
 
 These concepts was used:
 
